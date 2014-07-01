@@ -8,6 +8,12 @@ public class MotorScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 	
+		// HELLO I AM MAKING SOME CHANGES RIGHT NOW
+		//
+		//
+		//
+		//
+		//
 	}
 	
 	// Update is called once per frame
