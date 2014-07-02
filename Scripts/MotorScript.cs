@@ -5,7 +5,7 @@ public class MotorScript : MonoBehaviour {
 
     //*****************************************************
 
-    //This is blah blah blah
+    //Larry sucks sweaty sacks
     //*****************************************************
 
 	public float speed = 50.0f;
