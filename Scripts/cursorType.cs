@@ -10,6 +10,8 @@ Then move the mouse to the object and away from it.
 That's how the functions work.
 ************************************************/
 
+    //kljdjklafodfjmkfdsl;jfsdljdso
+
 	void OnMouseEnter()
 	{
 		renderer.material.color = Color.red;
